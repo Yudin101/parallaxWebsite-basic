@@ -35,14 +35,6 @@ body, html{
 .section{
 	text-align: center;
 	padding: 50px 80px;
-}
-
-.section-light{
-	background-color: #ecedee;
-	color: #666;
-}
-
-.section-dark{
 	background-color: #282e34;
 	color: #ddd;
 }
