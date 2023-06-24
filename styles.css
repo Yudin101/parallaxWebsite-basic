@@ -8,28 +8,41 @@ body, html{
 	color: #666;
 }
 
-.pimg1, .pimg2, .pimg3{
+.pimg{
 	position: relative;
-	opacity: 0.77;
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
-.pimg1{
-	background-image: url("images/img1.jpg");
+.middle{
+	min-height: 70%;
+}
+
+#pimg1{
+	background-image: url("images/cover.jpg");
 	min-height: 100%;
 }
 
-.pimg2{
-	background-image: url("images/img2.jpg");
-	min-height: 400px;
+#pimg2{
+	background-image: url("images/supra.jpg");
 }
 
-.pimg3{
-	background-image: url("images/img3.jpg");
-	min-height: 400px;
+#pimg3{
+	background-image: url("images/skyline.jpg");
+}
+
+#pimg4{
+	background-image: url("images/ae86.jpg");
+}
+
+#pimg5{
+	background-image: url("images/mazda.jpg");
+}
+
+#pimg6{
+	background-image: url("images/silvia.jpg");
 }
 
 .section{
@@ -53,4 +66,5 @@ body, html{
 	background-color: #111;
 	color: #fff;
 	padding: 20px;
+	opacity: 0.9;
 }
