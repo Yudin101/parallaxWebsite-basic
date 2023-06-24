@@ -57,6 +57,10 @@ body, html{
 	background-image: url("images/civic.jpg");
 }
 
+#pimg10{
+	background-image: url("images/lanevo.jpg");
+}
+
 .section{
 	text-align: center;
 	padding: 50px 80px;
