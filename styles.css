@@ -84,3 +84,22 @@ body, html{
 	padding: 20px;
 	opacity: 0.9;
 }
+
+@media screen and (max-width: 800px){
+	#lanevo{
+		font-size: 15px;
+		letter-spacing: 3px;
+	}
+}
+
+@media screen and (max-width: 420px){
+	#lanevo{
+		font-size: 13px;
+		letter-spacing: 0px;
+	}
+
+	.ptext{
+		font-size: 18px;
+	}
+}
+
