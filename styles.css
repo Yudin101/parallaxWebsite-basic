@@ -21,44 +21,44 @@ body, html{
 }
 
 #pimg1{
-	background-image: url("images/cover.jpg");
+	background-image: url("cars/cover.jpg");
 	min-height: 100%;
 }
 
 #pimg2{
-	background-image: url("images/supra.jpg");
+	background-image: url("cars/supra.jpg");
 }
 
 #pimg3{
-	background-image: url("images/skyline.jpg");
+	background-image: url("cars/skyline.jpg");
 }
 
 #pimg4{
-	background-image: url("images/ae86.jpg");
+	background-image: url("cars/ae86.jpg");
 }
 
 #pimg5{
-	background-image: url("images/mazda.jpg");
+	background-image: url("cars/mazda.jpg");
 }
 
 #pimg6{
-	background-image: url("images/silvia.jpg");
+	background-image: url("cars/silvia.jpg");
 }
 
 #pimg7{
-	background-image: url("images/subaru.jpg");
+	background-image: url("cars/subaru.jpg");
 }
 
 #pimg8{
-	background-image: url("images/nsx.jpg");
+	background-image: url("cars/nsx.jpg");
 }
 
 #pimg9{
-	background-image: url("images/civic.jpg");
+	background-image: url("cars/civic.jpg");
 }
 
 #pimg10{
-	background-image: url("images/lanevo.jpg");
+	background-image: url("cars/lanevo.jpg");
 }
 
 .section{
